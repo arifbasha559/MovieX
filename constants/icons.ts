@@ -16,4 +16,5 @@ export const icons = {
   star,
   play,
   arrow,
+  
 };
